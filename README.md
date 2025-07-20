@@ -13,4 +13,4 @@ Using Arduino Nano and OLED display
 
 [Steps](DIY-weather-station-4.docx)
 
-[Steps](WeatherStation-Uno-sketch_jul19a.ino)
+[Sketch](WeatherStation-Uno-sketch_jul19a.ino)
